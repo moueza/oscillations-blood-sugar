@@ -3,4 +3,5 @@ Glycémie
 
 Diabetes
 
-~curve length
+~curve length : big fingers vs lot of small microoscillations
+?
